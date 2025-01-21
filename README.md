@@ -11,5 +11,9 @@ This repository keeps track of the latest papers on single-cell analysis with di
 - [**scDiff**](https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1) 2023 Biorxiv: A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models
 - [**scVAEDer**](https://www.biorxiv.org/content/10.1101/2023.04.13.536789v1) 2023 Biorxiv: Integrating deep diffusion models and variational autoencoders for single-cell transcriptomics analysis
 
+
+## Why create a repo on single-cell diffusion models?
+While transformer models often steal the spotlight, diffusion models offer unique benefits that are worth exploring.
+
 ## Contribute
 We welcome contributions to this repository. Please open a pull request or an issue if you want to add or edit an entry.
